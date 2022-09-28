@@ -32,3 +32,11 @@ a:hover {
     text-decoration: underline;
     color: rgb(26, 26, 255);
 }
+footer {
+    text-align: center;
+}
+p#george {
+    font-weight: bolder;
+    font-size: 16pt;
+    color: rgb(26, 26, 255);
+}
