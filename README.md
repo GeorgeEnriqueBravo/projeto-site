@@ -4,7 +4,7 @@ Projeto de um site criado durante o curso de Git e GitHub para utilizarmos seu s
 
 ---
 
-Você pode acessar a página do meu projeto 
+__Você pode acessar a página do meu projeto__ 
 <a href="https://georgeenriquebravo.github.io/projeto-site-cursoemvideo/" target="_blank">
     clicando aqui
 </a>
