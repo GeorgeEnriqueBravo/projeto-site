@@ -1,10 +1,10 @@
-# Projeto Site do Curso em Vídeo
+# Projeto Site do Curso em Vídeo!
 
 Projeto de um site criado durante o curso de Git e GitHub para utilizarmos seu sistema de hospedagem para os projetos.
 
 ---
 
-Você pode acessar a página do projeto 
+__Você pode acessar a página do meu projeto__ 
 <a href="https://georgeenriquebravo.github.io/projeto-site-cursoemvideo/" target="_blank">
     clicando aqui
 </a>
