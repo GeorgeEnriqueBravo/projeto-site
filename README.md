@@ -12,7 +12,7 @@ __Você pode acessar a página do meu projeto__
 
 ---
 
-# Tecnologias Utilizadas <img width="7%" alt="🌐" src="imagens/tecnologiaGif.gif"/>
+# Tecnologias Utilizadas <img width="70px" alt="🌐" src="imagens/tecnologiaGif.gif"/>
 Nesse projeto foram utilizadas as seguintes tecnologias:
 <div style="display: inline_block">
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
