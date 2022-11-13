@@ -1,4 +1,4 @@
-# Projeto Site do Curso em Vídeo!
+# Projeto Site <img width="180px" alt="Philips" src="imagens/curso-em-video-pb.png"/>
 
 Projeto de um site criado durante o curso de Git e GitHub para utilizarmos seu sistema de hospedagem para os projetos.
 
